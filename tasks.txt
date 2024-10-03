@@ -1,0 +1,7 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+jan, Capstone, Revision work all in one project, 1 Aug 2024, 30 Jul 2024, No
+jan, Coffee Collection, Get coffees for everyone, 12 Aug 2024, 30 Jul 2024, No
+jan, Fun, Enjoy your day while doing your tasks, 25 Dec 2024, 30 Jul 2024, No
+ron, Cleanup, clean the floors, 10 Aug 2024, 01 Aug 2024, No
+ron, Extra clean up, clean everyones desks, 10 Aug 2024, 01 Aug 2024, No
